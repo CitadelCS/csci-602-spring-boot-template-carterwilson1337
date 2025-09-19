@@ -25,3 +25,7 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+
+#DB credentials
+/src/main/resources
