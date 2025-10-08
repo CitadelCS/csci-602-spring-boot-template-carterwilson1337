@@ -25,3 +25,8 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+### Credentials and Certificates ###
+src/main/resources/certs/
+src/main/resources/application.yaml
+src/main/resources/application-test.yaml
